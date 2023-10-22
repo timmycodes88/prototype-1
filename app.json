@@ -8,6 +8,7 @@
       "expo-router"
     ],
     "name": "prototype-1",
-    "slug": "prototype-1"
+    "slug": "prototype-1",
+    "userInterfaceStyle": "automatic"
   }
 }
